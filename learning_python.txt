@@ -1,0 +1,1 @@
+Python to łatwy w nauce język programowania, który daje użytkownikom wiele możliwości. W Pythonie można tworzyć różne zestawy danych, takie jak: listy, krotki, słowniki i zbiory, a także wykonywać proste działania matematyczne. W Pythonie można skorzystać z wielu metod pozwalających na dostosowanie kodu do rzeczywistych potrzeb.
